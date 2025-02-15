@@ -1,0 +1,27 @@
+Date,Time,Label,Accuracy,Image Path
+
+
+2025-01-23,22:01:40,Siberian husky,0.61544913,C:\Users\prave\Downloads\Animal-Specie-Recognition-main\Animal-Specie-Recognition-main\uploaded_images\20250123_220131_husky.jpg
+2025-01-23,22:06:11,lion,0.97493774,C:\Users\prave\Downloads\Animal-Specie-Recognition-main\Animal-Specie-Recognition-main\uploaded_images\20250123_220602_test 2.jpg
+2025-01-23,22:23:51,Persian cat,0.3521353,C:\Users\prave\Downloads\Animal-Specie-Recognition-main\Animal-Specie-Recognition-main\uploaded_images\20250123_222342_image 5.jpg
+2025-01-23,22:28:01,Siberian husky,0.61544913,C:\Users\prave\Downloads\Animal-Specie-Recognition-main\Animal-Specie-Recognition-main\uploaded_images\20250123_222752_husky.jpg
+2025-01-23,22:32:01,tiger,0.74598044,C:\Users\prave\Downloads\Animal-Specie-Recognition-main\Animal-Specie-Recognition-main\uploaded_images\20250123_223151_test 1.jpg
+2025-01-23,22:41:05,golden retriever,0.9817541,uploaded_images/retreiver.jpg
+2025-01-23,22:49:17,tabby,0.6803674,uploaded_images\cat.jpg
+2025-01-23,22:54:02,golden retriever,0.9817541,uploaded_images\retreiver.jpg
+2025-01-23,22:59:02,jaguar,0.6249989,uploaded_images\test 3.jpg
+2025-01-23,23:42:23,Arabian camel,1.0,uploaded_images\camel.jpg,ResNet50
+2025-01-23,23:43:21,bull mastiff,0.5948511,uploaded_images\image2.jpg,ResNet50
+2025-01-23,23:43:54,bull mastiff,0.5948511,uploaded_images\image2.jpg,ResNet50
+2025-01-23,23:46:53,Shih-Tzu,0.9614349,uploaded_images\image3.jpg,ResNet50
+2025-01-23,23:50:18,Staffordshire bullterrier,0.59140116,uploaded_images\image1.jpg,ResNet50
+2025-01-24,09:03:46,ram,0.40719062,uploaded_images\goat.jpg
+2025-01-24,09:06:39,tusker,0.47824872,uploaded_images\ele.jpg
+2025-01-24,12:08:58,peacock,0.99995434,uploaded_images\peacock.jpg
+2025-01-26,10:20:43,Labrador retriever,0.6204699,uploaded_images\dog.jpg
+2025-01-30,10:16:08,Labrador retriever,0.6204699,uploaded_images\dog.jpg
+2025-01-30,10:21:31,Labrador retriever,0.6204699,uploaded_images\dog.jpg
+2025-01-31,11:27:59,Rottweiler,0.93696225,uploaded_images\1111.jpg
+2025-02-07,10:44:20,German shepherd,0.30748895,uploaded_images\dog_06.jpg
+2025-02-07,22:15:04,Arabian camel,1.0,uploaded_images\camel.jpg
+2025-02-13,18:33:16,jaguar,0.6249989,uploaded_images\test 3.jpg
