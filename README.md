@@ -1,18 +1,27 @@
-# 🦁 Animal Species Recognition  
-This project tests **ResNet-50** for recognizing different animal species from images. It provides an easy-to-use **Streamlit web app** for classification.
+# 🦁📷 Animal & Object Recognition  
+
+The **Animal & Object Recognition System** is a deep learning-based project that utilizes **ResNet-50** to classify and recognize both **animals** and **everyday objects** from images. This system is designed for **fast and accurate image recognition** using a **Streamlit-powered web application**, making it easy to use for researchers, students, and developers.  
+
+---
 
 ## 🚀 Features  
-- Upload an image, and the model predicts the animal species.  
-- Uses **ResNet-50**, a pre-trained deep learning model.  
-- Streamlit-based web interface for easy use.  
+✅ **Animal Recognition** – Identify various animal species, including mammals, birds, reptiles, and more.  
+✅ **Object Recognition** – Detect and classify common objects such as vehicles, furniture, electronics, and tools.  
+✅ **ResNet-50 Model** – Uses a powerful, pre-trained deep learning model for high accuracy.  
+✅ **User-Friendly Interface** – A simple, intuitive web app built with Streamlit.  
+✅ **Real-Time Predictions** – Instantly get classification results by uploading an image.  
+
+This system can be used for **wildlife research, surveillance, smart security systems, and educational purposes**. 🚀🔥  
+
+---
 
 ## 📌 Installation & Setup  
 Follow these steps to set up the project:  
 
-1. **Clone the Repository**  
-   
-   git clone https://github.com/yourusername/Animal-Specie-Recognition.git
-   cd Animal-Specie-Recognition
+### **1️⃣ Clone the Repository**  
+```bash
+git clone https://github.com/yourusername/Recognition_System.git
+cd Recognition_System
 
  1.Create & Activate a Virtual Environment
    Install virtualenv (if not installed):
