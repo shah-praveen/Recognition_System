@@ -15,6 +15,41 @@ os.makedirs(image_directory, exist_ok=True)
 # Load Pre-trained Model
 model = ResNet50(weights='imagenet')
 
+st.set_page_config(page_title="Animal Species Recognition", layout="wide")
+
+# Custom Background Image and Overlay
+st.markdown(
+    """
+    <style>
+    body {
+        background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb');
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .stApp {
+        background-color: rgba(255, 255, 255, 0.75);  /* Lighter white overlay */
+        padding: 2rem;
+        border-radius: 12px;
+        box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+        backdrop-filter: blur(2px);  /* Slight blur effect for better readability */
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        color: #1e3d59;
+    }
+
+    .stTextInput > label, .stFileUploader > label, .stSelectbox > label {
+        font-weight: bold;
+        color: #1b3e2b;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 st.title("🐾 Animal Species Recognition")
 
 # Wikipedia Summary Function
